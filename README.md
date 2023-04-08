@@ -6,15 +6,15 @@ A port scan is a common technique hackers use to discover open doors or weak poi
 
 ***Installation***
 
-git clone https://github.com/Debahyper/Port-Scanner.git
-cd Port-Scanner
+git clone https://github.com/Debahyper/Port-Scanner.git /
+cd Port-Scanner/
 python3 scaning.py
 
 
 ****This tool tested on*****
 
-Kali Linux
-Ubuntu
+Kali Linux/
+Ubuntu/
 Termex
 
 ![123](https://user-images.githubusercontent.com/123361401/230734135-95130f4a-5d7e-4a95-912f-0ee2bc792e2e.png)
