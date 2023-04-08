@@ -10,4 +10,11 @@ git clone https://github.com/Debahyper/Port-Scanner.git
 cd Port-Scanner
 python3 scaning.py
 
-![123](https://user-images.githubusercontent.com/123361401/230733896-34064623-7627-4930-8194-a4a81ed0c902.png)
+
+****This tool tested on*****
+
+Kali Linux
+Ubuntu
+Termex
+
+![123](https://user-images.githubusercontent.com/123361401/230734135-95130f4a-5d7e-4a95-912f-0ee2bc792e2e.png)
