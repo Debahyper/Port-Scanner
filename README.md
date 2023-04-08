@@ -16,10 +16,11 @@ python3 scaning.py
 
 ****This tool tested on****
 ------------------------------------
-Kali Linux   
-Ubuntu    
-Termex   
+1.Kali Linux   
+2.Ubuntu    
+3.Termex   
 
 *****Example*****
+-------------------------
 
 ![123](https://user-images.githubusercontent.com/123361401/230734135-95130f4a-5d7e-4a95-912f-0ee2bc792e2e.png)
